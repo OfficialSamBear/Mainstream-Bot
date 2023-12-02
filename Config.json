@@ -1,0 +1,10 @@
+{
+    "bot": {
+      "id": "Discord BOt id",
+      "secret": "secret",
+      "token": "toot toot custom token"
+    },
+    "dashboardURL": "DashboardURL",
+    "mongoURI": "mongoURI"
+  }
+ 
